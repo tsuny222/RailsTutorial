@@ -1,0 +1,49 @@
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+)
+ion (0.3ms)
+00
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+)
+ion (0.2ms)
+00
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+)
+ion (0.2ms)
+00
+
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+)
+02:29:21 +0000
+
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+)
+ 02:30:17 +0000
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+)
+02:34:04 +0000
+
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+)
+ion (0.2ms)
+00
+
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+)
+tion (0.0ms)
+00
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+)
+ion (0.2ms)
+00
+
+0
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+)
+ion (0.2ms)
+00
+00
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+)
+ion (0.2ms)
+s)
+00
